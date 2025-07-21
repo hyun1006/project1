@@ -1,0 +1,22 @@
+UI
+html
+
+-파일을 받아서 
+-원하는 경로(깃허브)로 업로드되게
+-> 서버에 업로드?
+
+
+.exe로 배포
+
+flask 
+@app.route("/")
+@app.route("/upload")
+
+
+
+
+
+
+
+-환경설정 ( url + /jaeyoon
+시간
